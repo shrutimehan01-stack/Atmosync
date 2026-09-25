@@ -1,0 +1,5 @@
+- Added automated LOW, MEDIUM, and HIGH risk classification
+- Connected risk engine to MySQL
+- Processed PENDING sensor events
+- Tested LOW and HIGH risk scenarios
+- Verified risk levels are updated in raw_sensor_data
