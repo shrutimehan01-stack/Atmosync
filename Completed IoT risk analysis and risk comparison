@@ -1,0 +1,12 @@
+
+
+- Completed MySQL integration with AtmoSync
+- Stored IoT sensor data in the `raw_sensor_data` table
+- Implemented the AtmoSync Risk Engine
+- Added temperature, humidity, and vibration based risk calculation
+- Tested risk levels for multiple containers
+- Successfully generated LOW and HIGH risk results
+- Compared sensor readings with calculated risk levels
+- Verified the complete flow from sensor data to risk classification
+
+Current status: Risk Engine and database integration completed successfully.
