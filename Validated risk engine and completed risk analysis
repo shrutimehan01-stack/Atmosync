@@ -1,0 +1,14 @@
+ Progress Update 
+
+- Completed the AtmoSync risk analysis stage.
+- Connected the Risk Engine with MySQL.
+- Implemented temperature, humidity, and vibration based risk calculation.
+- Tested sensor data with different risk conditions.
+- Successfully generated LOW and HIGH risk levels for containers.
+- Validated the calculated risk results using the Jupyter Notebook.
+- Verified the complete data flow from Kafka to MySQL and Risk Engine.
+
+Next:
+- Complete final data analysis and visualizations.
+- Improve the project documentation.
+- Prepare the final project workflow and results.
